@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: gcr.io/sound-district-283210/usersdata
+  repository: gcr.io/sound-district-283211/usersdata
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "1.0"
